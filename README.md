@@ -3,7 +3,7 @@ Tiny Tick-Shape Networks of Full-Residual Point-Depth-Point Blocks for Image Cla
 **Abstract:**
 
 
-* **Training TickNets on Datasets**
+**Training TickNets on Datasets**
 
 For Stanford Dogs
 ```
