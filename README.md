@@ -4,7 +4,8 @@ Tiny Tick-Shape Networks of Full-Residual Point-Depth-Point Blocks for Image Cla
 
 
 * **Training TickNets on Datasets**
-*For Stanford Dogs
+
+For Stanford Dogs
 ```
 $ python TickNet_Dogs.py 
 ```
