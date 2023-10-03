@@ -7,13 +7,13 @@ Tiny Tick-Shape Networks of Full-Residual Point-Depth-Point Blocks for Image Cla
 
 **Training TickNets on Datasets:**
 
-For Stanford Dogs
+For Stanford Dogs. Note that it will automatically run for all TickNets, i.e., TickNet-basic, TickNet-small and TickNet-large
 ```
 $ python TickNet_Dogs.py 
 ```
-Note: It will automatically run for all TickNets, i.e., TickNet-basic, TickNet-small and TickNet-large
+For ImageNet-1k.
 ```
-$ python python TickNet_ImageNet.py -a large --evaluate 
+$ python python TickNet_ImageNet.py -a large 
 ```
 * **Validating the trained models of TickNets**
 ```
