@@ -1,6 +1,7 @@
 # TickNets
 Tiny Tick-Shape Networks of Full-Residual Point-Depth-Point Blocks for Image Classification
 **Abstract:**
+
 * Efficiently rescaling a large dataset by adapting statistical
 
 **Training TickNets on Datasets**
