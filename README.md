@@ -23,4 +23,5 @@ $ python TickNet_ImageNet.py -a large --evaluate
 $ python TickNet_Places365.py -a large --evaluate
 ```
 Note: Download the trained models of TickNets on Datasets
+
 This site was built using [GitHub Pages](https://pages.github.com/)
