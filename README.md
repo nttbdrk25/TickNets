@@ -11,7 +11,7 @@ For Stanford Dogs. Note that it will automatically run for all TickNets, i.e., T
 ```
 $ python TickNet_Dogs.py 
 ```
-For ImageNet-1k.
+For ImageNet-1k: -a large for training TickNet-large; -a small for TickNet-small
 ```
 $ python python TickNet_ImageNet.py -a large 
 ```
