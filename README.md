@@ -17,8 +17,9 @@ $ python TickNet_ImageNet.py -a large
 $ python TickNet_Places365.py -a large 
 ```
 **Validating the trained models of TickNets**
-* For ImageNet-1k and Places365: -a large for training TickNet-large; -a small for TickNet-small
+* For ImageNet-1k and Places365: -a large for training TickNet-large; -a small for TickNet-small.
 ```
 $ python TickNet_ImageNet.py -a large --evaluate
 $ python TickNet_Places365.py -a large --evaluate
 ```
+Note: Download the trained models of TickNets on Datasets
