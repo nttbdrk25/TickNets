@@ -14,7 +14,7 @@ $ python TickNet_Dogs.py
 For ImageNet-1k and Places365: -a large for training TickNet-large; -a small for TickNet-small
 ```
 $ python TickNet_ImageNet.py -a large
-$ python TickNet_ImageNet.py -a large 
+$ python TickNet_Places365.py -a large 
 ```
 * **Validating the trained models of TickNets**
 ```
