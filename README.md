@@ -22,4 +22,4 @@ $ python TickNet_Places365.py -a large
 $ python TickNet_ImageNet.py -a large --evaluate
 $ python TickNet_Places365.py -a large --evaluate
 ```
-Note: Download the trained model of TickNet-large on Datasets: [Click here for Places365](https://drive.google.com/file/d/13K-zgU2nkYCUtEfOQ8awXYnGLYz92_c-/view?usp=drive_link); [Click here for ImageNet-1k](https://drive.google.com/file/d/1-4EusMzLuWzxPQUEKWo0n4iE0H59Qm37/view?usp=drive_link); [Click here for Stanford Dogs](https://drive.google.com/file/d/1hb4YCqNeyho03qzPAeFsIp1esxJuef_u/view?usp=drive_link). And then locate the download file at ./checkpoints/[name_dataset]/large
+Note: Download the trained model of TickNet-large on Datasets: [Click here for Places365](https://drive.google.com/file/d/13K-zgU2nkYCUtEfOQ8awXYnGLYz92_c-/view?usp=drive_link); [Click here for ImageNet-1k](https://drive.google.com/file/d/1-4EusMzLuWzxPQUEKWo0n4iE0H59Qm37/view?usp=drive_link); [Click here for Stanford Dogs](https://drive.google.com/file/d/1hb4YCqNeyho03qzPAeFsIp1esxJuef_u/view?usp=drive_link). And then locate the downloaded file at ./checkpoints/[name_dataset]/large
