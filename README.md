@@ -9,7 +9,7 @@ Tiny Tick-Shape Networks of Full-Residual Point-Depth-Point Blocks for Image Cla
 
 For Stanford Dogs. Note that it will automatically run for all TickNets, i.e., TickNet-basic, TickNet-small and TickNet-large
 ```
-$ python TickNet_Dogs.py 
+$ python TickNet_Dogs.py --evaluate
 ```
 For ImageNet-1k and Places365: -a large for training TickNet-large; -a small for TickNet-small
 ```
