@@ -16,7 +16,7 @@ For ImageNet-1k and Places365: -a large for training TickNet-large; -a small for
 $ python TickNet_ImageNet.py -a large
 $ python TickNet_Places365.py -a large 
 ```
-Note: Subject to your system, modify these training files (*.py) to have the right path to datasets.
+Note: Subject to your system, modify these training files (*.py) to have the right path to datasets
 
 **Validating the trained models of TickNets:**
 * For Stanford Dogs (TickNet-large)
