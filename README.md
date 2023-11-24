@@ -30,4 +30,4 @@ $ python TickNet_ImageNet.py -a small --evaluate
 $ python TickNet_Places365.py -a small --evaluate
 ```
 
-Note: For instances of validation of TickNet-small, download the trained model of TickNet-small on Datasets: [Click here for Places365](https://drive.google.com/drive/folders/1EdlA3tuOutBJMR23B-fcSOKKB69hAQ5R?usp=sharing); [Click here for ImageNet-1k](); [Click here for Stanford Dogs](). And then locate the downloaded file at ./checkpoints/[name_dataset]/small
+Note: For instances of validation of TickNet-small, download the trained model of TickNet-small on Datasets: [Click here for Places365](https://drive.google.com/drive/folders/1EdlA3tuOutBJMR23B-fcSOKKB69hAQ5R?usp=sharing); [Click here for ImageNet-1k](https://drive.google.com/drive/folders/1t1M_QJwCmcaTgKBsJBmzrU-kabQeOPDT?usp=sharing); [Click here for Stanford Dogs](https://drive.google.com/drive/folders/1RGglukdrd5xDrGSo6ONmHTCZNZ-YwpZb?usp=sharing). And then locate the downloaded file at ./checkpoints/[name_dataset]/small
