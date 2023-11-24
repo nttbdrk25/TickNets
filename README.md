@@ -1,5 +1,5 @@
 # TickNets
-Tiny Tick-Shape Networks of Full-Residual Point-Depth-Point Blocks for Image Classification
+Efficient tick-shape networks of full-residual point-depth-point blocks for image classification
 
 **Abstract:**
 
