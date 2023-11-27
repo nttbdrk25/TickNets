@@ -121,7 +121,10 @@ def build_TickNet(num_classes, typesize='small', cifar=False):
     else:
         in_size = (224, 224)
         init_conv_stride = 2
-        strides = [2, 1, 2, 2, 2]
+        if typesize=='basic':
+            strides = [1, 2, 2, 2, 2]
+        else:
+            strides = [2, 1, 2, 2, 2]
     return  TickNet(num_classes=num_classes,
                        init_conv_channels=init_conv_channels,
                        init_conv_stride=init_conv_stride,
