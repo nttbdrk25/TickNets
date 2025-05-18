@@ -46,6 +46,9 @@ If you use any materials, please cite the following relevant works.
   author       = {Thanh Tuan Nguyen and Thanh Phuong Nguyen},
   title        = {Efficient tick-shape networks of full-residual point-depth-point blocks for image classification},
   journal      = {Neurocomputing},
-  note         = {(submitted in 2023)}
+  volume       = {596},
+  pages        = {127942},
+  year         = {2024},
+  url          = {https://doi.org/10.1016/j.neucom.2024.127942}
 }
 ```
